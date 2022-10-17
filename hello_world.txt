@@ -1,2 +1,3 @@
 Hi, World its Me! 
 Making a commit without -m Flag
+making a commit using vs-code instead of nano to create message
